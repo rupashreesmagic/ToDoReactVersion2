@@ -1,0 +1,13 @@
+
+input{
+  width: 100%;
+}
+.itemsContainer{
+  text-align: left;
+}
+.rr-row{
+  margin: 10 px 5 px;
+}
+.rr-btn{
+  min-width: 80 px;
+}
